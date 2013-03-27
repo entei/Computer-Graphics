@@ -1,0 +1,143 @@
+#ugolkrug{
+ width:200px; 
+ height:100px; 
+ color: #0000;
+ background:#7C7273; 
+ border: 3px #CCCCCC solid;
+ -moz-border-radius: 10px; 
+ -webkit-border-radius: 10px;
+ -khtml-border-radius:10px; 
+ border-radius: 10px; 
+}
+
+#round{
+	-moz-border-radius: 5px; 
+ 	-webkit-border-radius: 5px; 
+	 -khtml-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#sliderAmount{
+	border-radius:10px;
+	width:45px;
+	padding-top:10px; padding-bottom:10px;
+
+	text-align:center;
+	font-weight:bold; font-size:large;
+	margin-left:40px;
+}
+
+#slider {
+margin-left:10px;
+}
+
+
+
+#content {
+	width: 1000px;
+	padding: 0px 0px 100px 100px;
+	height: 100%;
+	position: relative;
+	-moz-border-radius: 5px;
+ 	-webkit-border-radius: 5px; 
+	 -khtml-border-radius: 5px;
+	border-radius: 5px;	
+}
+
+
+#container
+{
+	-moz-border-radius: 5px; 
+ 	-webkit-border-radius: 5px; 
+	border-radius: 5px;
+	margin: 0 auto;
+	width: 750px;
+	background:#fff;
+}
+
+#header
+{
+	-moz-border-radius: 5px; 
+ 	-webkit-border-radius: 5px;
+	 -khtml-border-radius: 5px; 
+	border-radius: 5px;
+	background:#ccc;
+	padding: 20px;
+}
+
+#header h1 { margin: 0; }
+
+#navigation
+{
+	float: left;
+	width: 750px;
+	background:#333;
+	-moz-border-radius: 5px;
+ 	-webkit-border-radius: 5px; 
+	 -khtml-border-radius: 5px; 
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+#navigation li a
+{
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color:#fff;
+	text-decoration: none;
+	border-right: 1px solid#fff;
+}
+
+#navigation li a:hover { background:#383; }
+
+#content
+{
+	clear: left;
+	padding: 20px;
+}
+
+#content h2
+{
+	color:#000;
+	font-size: 160%;
+	margin: 0 0 .5em;
+}
+
+#footer
+{
+	-moz-border-radius: 5px; 
+ 	-webkit-border-radius: 5px; 
+	 -khtml-border-radius: 5px; 
+	border-radius: 5px;
+	background:#ccc;
+	text-align: center;
+	padding: 20px;
+	height: 1%;
+	font-size: 60%;
+}
+
+table{
+	padding-top: 5px;
+	padding-bottom: 5px
+}
+
+td, tr, img {
+	padding: 0px;
+	margin: 0px;
+	border: none;
+}
+
+{
+	border-collapse: colapse;
+}
